@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -g -DNDEBUG  -rdynamic CMakeFiles/test_omni_kinematics.dir/test/test_omni_kinematics.cpp.o  -o /home/badboy/catkin_ws3/devel/lib/neo_kinematics_omnidrive/test_omni_kinematics 

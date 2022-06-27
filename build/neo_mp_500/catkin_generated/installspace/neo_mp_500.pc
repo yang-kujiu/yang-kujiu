@@ -1,0 +1,8 @@
+prefix=/home/badboy/catkin_ws3/install
+
+Name: neo_mp_500
+Description: Description of neo_mp_500
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

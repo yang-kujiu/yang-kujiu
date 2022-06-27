@@ -1,0 +1,8 @@
+prefix=/home/badboy/catkin_ws3/devel
+
+Name: neo_simulation
+Description: Description of neo_simulation
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/badboy/catkin_ws3/install
+
+Name: neo_kinematics_differential
+Description: Description of neo_kinematics_differential
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lneo_kinematics_differential
+Requires: roscpp rostest std_msgs tf nav_msgs sensor_msgs

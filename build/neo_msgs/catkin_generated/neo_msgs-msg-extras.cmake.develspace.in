@@ -1,0 +1,2 @@
+set(neo_msgs_MESSAGE_FILES "/home/badboy/catkin_ws3/src/neo_msgs/msg/EmergencyStopState.msg;/home/badboy/catkin_ws3/src/neo_msgs/msg/Keypad.msg;/home/badboy/catkin_ws3/src/neo_msgs/msg/LCDOutput.msg;/home/badboy/catkin_ws3/src/neo_msgs/msg/USBoard.msg;/home/badboy/catkin_ws3/src/neo_msgs/msg/USBoardV2.msg;/home/badboy/catkin_ws3/src/neo_msgs/msg/RelayBoardV2.msg;/home/badboy/catkin_ws3/src/neo_msgs/msg/IOBoard.msg")
+set(neo_msgs_SERVICE_FILES "")

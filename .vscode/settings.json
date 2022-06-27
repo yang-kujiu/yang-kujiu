@@ -1,0 +1,13 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "python.autoComplete.extraPaths": [
+        "/home/badboy/catkin_ws3/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "git.ignoreLimitWarning": true,
+    "python.analysis.extraPaths": [
+        "/home/badboy/catkin_ws3/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "C_Cpp.errorSquiggles": "Enabled"
+}

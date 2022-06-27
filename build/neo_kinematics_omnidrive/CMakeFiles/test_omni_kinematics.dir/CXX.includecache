@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/badboy/catkin_ws3/src/neo_kinematics_omnidrive/include/OmniKinematics.h
+OmniWheel.h
+/home/badboy/catkin_ws3/src/neo_kinematics_omnidrive/include/OmniWheel.h
+angles/angles.h
+-
+vector
+-
+stdexcept
+-
+math.h
+-
+
+/home/badboy/catkin_ws3/src/neo_kinematics_omnidrive/include/OmniWheel.h
+math.h
+-
+string
+-
+
+/home/badboy/catkin_ws3/src/neo_kinematics_omnidrive/test/test_omni_kinematics.cpp
+../include/OmniKinematics.h
+/home/badboy/catkin_ws3/src/neo_kinematics_omnidrive/include/OmniKinematics.h
+iostream
+-
+
+/opt/ros/melodic/include/angles/angles.h
+algorithm
+-
+cmath
+-
+

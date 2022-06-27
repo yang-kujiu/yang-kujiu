@@ -1,0 +1,8 @@
+prefix=/home/badboy/catkin_ws3/devel
+
+Name: neo_mmo_500
+Description: Description of neo_mmo_500
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

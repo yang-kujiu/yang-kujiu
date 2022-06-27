@@ -1,0 +1,2 @@
+marm_moveit_config:neo_common:neo_kinematics_differential:neo_kinematics_mecanum:neo_kinematics_omnidrive:neo_mpo_500:neo_msgs:neo_simulation:neo_srvs:text1
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/badboy/catkin_ws3/devel -DCMAKE_INSTALL_PREFIX=/home/badboy/catkin_ws3/install -G Unix Makefiles

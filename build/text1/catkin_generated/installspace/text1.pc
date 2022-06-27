@@ -1,0 +1,8 @@
+prefix=/home/badboy/catkin_ws3/install
+
+Name: text1
+Description: Description of text1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

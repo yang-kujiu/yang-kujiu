@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/home/badboy/catkin_ws3/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/badboy/catkin_ws3/src/neo_common/include/**",
+                "/home/badboy/catkin_ws3/src/neo_kinematics_omnidrive/include/**",
+                "/home/badboy/catkin_ws3/src/neo_localization/include/**",
+                "/home/badboy/catkin_ws3/src/openslam_gmapping/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17",
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}

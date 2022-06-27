@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O2 -g -DNDEBUG  -shared -Wl,-soname,libneo_kinematics_differential.so -o /home/badboy/catkin_ws3/devel/lib/libneo_kinematics_differential.so CMakeFiles/neo_kinematics_differential.dir/common/src/DiffDrive2WKinematics.cpp.o 
